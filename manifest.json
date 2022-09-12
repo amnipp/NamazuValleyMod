@@ -1,0 +1,10 @@
+{
+  "Name": "Namazu Valley Mod",
+  "Author": "Dagron",
+  "Version": "1.0.0",
+  "Description": "Playing around with SMAPI for fun",
+  "UniqueID": "dagron.NamazuValleyMod",
+  "EntryDll": "NamazuValleyMod.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
